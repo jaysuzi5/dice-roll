@@ -1,0 +1,4 @@
+flask
+opentelemetry-distro
+opentelemetry-instrumentation-flask
+opentelemetry-exporter-otlp
